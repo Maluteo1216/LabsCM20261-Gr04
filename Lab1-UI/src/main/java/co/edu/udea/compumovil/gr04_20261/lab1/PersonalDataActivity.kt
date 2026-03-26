@@ -1,6 +1,7 @@
 package co.edu.udea.compumovil.gr04_20261.lab1
 
 import android.app.DatePickerDialog
+import android.content.Intent
 import android.os.Bundle
 import android.widget.Toast
 import androidx.activity.ComponentActivity
@@ -125,7 +126,8 @@ fun PersonalDataScreen(modifier: Modifier = Modifier) {
                 if (names.isBlank() || lastNames.isBlank() || birthDate.isBlank()) {
                     Toast.makeText(context, context.getString(R.string.error_required_fields), Toast.LENGTH_LONG).show()
                 } else {
-                    // Acción siguiente
+                    val intent = Intent(context, ContactDataActivity::class.java)
+                    context.startActivity(intent)
                 }
             },
             modifier = Modifier.align(Alignment.End).padding(top = 16.dp)
