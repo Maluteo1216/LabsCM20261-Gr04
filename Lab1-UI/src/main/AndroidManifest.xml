@@ -11,17 +11,25 @@
         android:roundIcon="@mipmap/ic_launcher_round"
         android:supportsRtl="true"
         android:theme="@style/Theme.Labs20261Gr04">
+
         <activity
-            android:name=".MainActivity"
+            android:name=".PersonalDataActivity"
             android:exported="true"
-            android:label="@string/app_name"
-            android:theme="@style/Theme.Labs20261Gr04">
+            android:label="@string/title_personal_info"
+            android:windowSoftInputMode="adjustResize">
             <intent-filter>
                 <action android:name="android.intent.action.MAIN" />
-
                 <category android:name="android.intent.category.LAUNCHER" />
             </intent-filter>
         </activity>
+
+        <activity
+            android:name=".MainActivity"
+            android:exported="false"
+            android:label="@string/app_name"
+            android:theme="@style/Theme.Labs20261Gr04">
+        </activity>
+
     </application>
 
 </manifest>

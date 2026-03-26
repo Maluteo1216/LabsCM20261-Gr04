@@ -1,3 +1,20 @@
 <resources>
     <string name="app_name">Labs20261-Gr04</string>
+    <string name="title_personal_info">Información Personal</string>
+    <string name="label_first_name">Nombres *</string>
+    <string name="label_last_name">Apellidos *</string>
+    <string name="label_gender">Sexo:</string>
+    <string name="gender_male">Hombre</string>
+    <string name="gender_female">Mujer</string>
+    <string name="label_birth_date">Fecha de Nacimiento: *</string>
+    <string name="btn_change">Cambiar</string>
+    <string name="label_education_level">Grado de escolaridad</string>
+    <string name="education_primary">Primaria</string>
+    <string name="education_secondary">Secundaria</string>
+    <string name="education_university">Universitaria</string>
+    <string name="education_other">Otro</string>
+    <string name="btn_next">Siguiente</string>
+    <string name="hint_names">Melissa</string>
+    <string name="hint_apellidos">Apellidos</string>
+    <string name="error_required_fields">Los campos marcados con asterisco (*) son obligatorios</string>
 </resources>
