@@ -1,6 +1,6 @@
-URL del repositorio: https://github.com/Mateo/Labs20261Gr04.git
+URL del repositorio: https://github.com/Maluteo1216/LabsCM20261-Gr04.git
 
 Integrantes:
-- Mateo (Cuenta de GitHub: Maluteo1216)
-- Nombre Integrante 2 (Cuenta de GitHub: )
-- Nombre Integrante 3 (Cuenta de GitHub: )
+- Mateo Lotero Tobón (Cuenta de GitHub: Maluteo1216)
+- Santiago Correa Castillo (Cuenta de GitHub: SantiagoCorrea1 )
+- Simón Sánchez Sepúlveda (Cuenta de GitHub: Simonsanchezs )
