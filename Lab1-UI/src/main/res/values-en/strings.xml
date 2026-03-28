@@ -17,4 +17,15 @@
     <string name="hint_names">Melissa</string>
     <string name="hint_apellidos">Last Name</string>
     <string name="error_required_fields">Fields marked with asterisk (*) are required</string>
+
+    <!-- ContactDataActivity -->
+    <string name="title_contact_info">Contact Information</string>
+    <string name="label_phone">*Phone</string>
+    <string name="label_email">*Email</string>
+    <string name="label_country">*Country</string>
+    <string name="label_city">City</string>
+    <string name="label_address">Address</string>
+
+    <!-- Final button -->
+    <string name="btn_submit">Submit</string>
 </resources>

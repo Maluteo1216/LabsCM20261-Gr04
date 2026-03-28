@@ -17,4 +17,15 @@
     <string name="hint_names">Melissa</string>
     <string name="hint_apellidos">Apellidos</string>
     <string name="error_required_fields">Los campos marcados con asterisco (*) son obligatorios</string>
+
+    <!-- ContactDataActivity -->
+    <string name="title_contact_info">Información de Contacto</string>
+    <string name="label_phone">*Teléfono</string>
+    <string name="label_email">*Email</string>
+    <string name="label_country">*País</string>
+    <string name="label_city">Ciudad</string>
+    <string name="label_address">Dirección</string>
+
+    <!-- Botón final (pantalla de contacto) -->
+    <string name="btn_submit">Enviar</string>
 </resources>
